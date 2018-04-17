@@ -1,0 +1,26 @@
+[
+  {
+    "libelle" : "Clinique/Cabinet",
+    "code" : "clinique-cabinet"
+  },
+  {
+    "libelle" : "CSCOM",
+    "code" : "cscom"
+  },
+  {
+    "libelle" : "CSRef",
+    "code" : "csref"
+  },
+  {
+    "libelle" : "Hopitaux",
+    "code" : "hopital"
+  },
+  {
+    "libelle" : "Laboratoires",
+    "code" : "laboratoire"
+  },
+  {
+    "libelle" : "Pharmacies",
+    "code" : "pharmacie"
+  }
+]

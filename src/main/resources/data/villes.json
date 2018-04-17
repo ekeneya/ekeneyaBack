@@ -1,0 +1,302 @@
+[
+	{
+		"libelle": "Tenenkou",
+		"latitude": 14.45903,
+		"longitude": -4.91692,
+		"code": "Tenenkou"
+	},
+	{
+		"libelle": "Koro",
+		"latitude": 14.074741,
+		"longitude": -3.082667,
+		"code": "Koro"
+	},
+	{
+		"libelle": "Djenne",
+		"latitude": 13.905395,
+		"longitude": -4.555995,
+		"code": "Djenne"
+	},
+	{
+		"libelle": "Yelimane",
+		"latitude": 15.067073,
+		"longitude": -10.529611,
+		"code": "Yelimane"
+	},
+	{
+		"libelle": "Youwarou",
+		"latitude": 15.374993,
+		"longitude": -4.261538,
+		"code": "Youwarou"
+	},
+	{
+		"libelle": "Nara",
+		"latitude": 15.168938,
+		"longitude": -7.289566,
+		"code": "Nara"
+	},
+	{
+		"libelle": "Kidal",
+		"latitude": 18.452071,
+		"longitude": 1.409653,
+		"code": "Kidal"
+	},
+	{
+		"libelle": "Kita",
+		"latitude": 13.034107,
+		"longitude": -9.489497,
+		"code": "Kita"
+	},
+	{
+		"libelle": "Bankass",
+		"latitude": 14.077518,
+		"longitude": -3.518036,
+		"code": "Bankass"
+	},
+	{
+		"libelle": "Goundam",
+		"latitude": 16.417596,
+		"longitude": -3.664859,
+		"code": "Goundam"
+	},
+	{
+		"libelle": "Bourem",
+		"latitude": 16.956232,
+		"longitude": -0.344245,
+		"code": "Bourem"
+	},
+	{
+		"libelle": "Dioila",
+		"latitude": 12.495787,
+		"longitude": -6.797592,
+		"code": "Dioila"
+	},
+	{
+		"libelle": "Tessalit",
+		"latitude": 20.257353,
+		"longitude": 0.99103,
+		"code": "Tessalit"
+	},
+	{
+		"libelle": "Menaka",
+		"latitude": 15.915642,
+		"longitude": 2.396174,
+		"code": "Menaka"
+	},
+	{
+		"libelle": "Bougouni",
+		"latitude": 11.418288,
+		"longitude": -7.470593,
+		"code": "Bougouni"
+	},
+	{
+		"libelle": "Tominian",
+		"latitude": 13.285727,
+		"longitude": -4.59082,
+		"code": "Tominian"
+	},
+	{
+		"libelle": "Banamba",
+		"latitude": 13.99139,
+		"longitude": -7.265286,
+		"code": "Banamba"
+	},
+	{
+		"libelle": "Mopti",
+		"latitude": 14.487428,
+		"longitude": -4.197463,
+		"code": "Mopti"
+	},
+	{
+		"libelle": "Badiangara",
+		"latitude": 14.348948,
+		"longitude": -3.609117,
+		"code": "Badiangara"
+	},
+	{
+		"libelle": "Bafoulabe",
+		"latitude": 13.80926,
+		"longitude": -10.834565,
+		"code": "Bafoulabe"
+	},
+	{
+		"libelle": "Kayes",
+		"latitude": 14.436788,
+		"longitude": -11.445272,
+		"code": "Kayes"
+	},
+	{
+		"libelle": "Bla",
+		"latitude": 12.954987,
+		"longitude": -5.756315,
+		"code": "Bla"
+	},
+	{
+		"libelle": "Yorosso",
+		"latitude": 12.354753,
+		"longitude": -4.77822,
+		"code": "Yorosso"
+	},
+	{
+		"libelle": "Kolokani",
+		"latitude": 13.573399,
+		"longitude": -8.032882,
+		"code": "Kolokani"
+	},
+	{
+		"libelle": "Tombouctou",
+		"latitude": 16.766589,
+		"longitude": -3.002561,
+		"code": "Tombouctou"
+	},
+	{
+		"libelle": "Baroueli",
+		"latitude": 13.069381,
+		"longitude": -6.83242,
+		"code": "Baroueli"
+	},
+	{
+		"libelle": "Gourma-Rharous",
+		"latitude": 16.878219,
+		"longitude": -1.920916,
+		"code": "Gourma-Rharous"
+	},
+	{
+		"libelle": "Nioro",
+		"latitude": 15.23199,
+		"longitude": -9.588628,
+		"code": "Nioro"
+	},
+	{
+		"libelle": "Douentza",
+		"latitude": 15.004522,
+		"longitude": -2.955062,
+		"code": "Douentza"
+	},
+	{
+		"libelle": "Niono",
+		"latitude": 14.226116,
+		"longitude": -5.975327,
+		"code": "Niono"
+	},
+	{
+		"libelle": "Kangaba",
+		"latitude": 11.942768,
+		"longitude": -8.415681,
+		"code": "Kangaba"
+	},
+	{
+		"libelle": "San",
+		"latitude": 13.294402,
+		"longitude": -4.898752,
+		"code": "San"
+	},
+	{
+		"libelle": "Abeibara",
+		"latitude": 19.744449,
+		"longitude": 2.302446,
+		"code": "Abeibara"
+	},
+	{
+		"libelle": "Sikasso",
+		"latitude": 11.322383,
+		"longitude": -5.698398,
+		"code": "Sikasso"
+	},
+	{
+		"libelle": "Kolondieba",
+		"latitude": 11.091537,
+		"longitude": -6.891402,
+		"code": "Kolondieba"
+	},
+	{
+		"libelle": "Koulikoro",
+		"latitude": 13.801807,
+		"longitude": -7.438136,
+		"code": "Koulikoro"
+	},
+	{
+		"libelle": "Niafunke",
+		"latitude": 15.930214,
+		"longitude": -3.995497,
+		"code": "Niafunke"
+	},
+	{
+		"libelle": "Kadiolo",
+		"latitude": 10.550504,
+		"longitude": -5.756315,
+		"code": "Kadiolo"
+	},
+	{
+		"libelle": "Segou",
+		"latitude": 13.43166,
+		"longitude": -6.248215,
+		"code": "Segou"
+	},
+	{
+		"libelle": "Bamako",
+		"latitude": 12.639232,
+		"longitude": -8.002889,
+		"code": "Bamako"
+	},
+	{
+		"libelle": "Yanfolila",
+		"latitude": 11.178014,
+		"longitude": -8.152975,
+		"code": "Yanfolila"
+	},
+	{
+		"libelle": "Kenieba",
+		"latitude": 12.845128,
+		"longitude": -11.235377,
+		"code": "Kenieba"
+	},
+	{
+		"libelle": "Dire",
+		"latitude": 16.266174,
+		"longitude": -3.404419,
+		"code": "Dire"
+	},
+	{
+		"libelle": "Kati",
+		"latitude": 12.745372,
+		"longitude": -8.0738,
+		"code": "Kati"
+	},
+	{
+		"libelle": "Macina",
+		"latitude": 13.96284,
+		"longitude": -5.359936,
+		"code": "Macina"
+	},
+	{
+		"libelle": "Diema",
+		"latitude": 14.539018,
+		"longitude": -9.192674,
+		"code": "Diema"
+	},
+	{
+		"libelle": "Gao",
+		"latitude": 16.263981,
+		"longitude": -0.027987,
+		"code": "Gao"
+	},
+	{
+		"libelle": "Ansongo",
+		"latitude": 15.672935,
+		"longitude": 0.504521,
+		"code": "Ansongo"
+	},
+	{
+		"libelle": "Koutiala",
+		"latitude": 12.377411,
+		"longitude": -5.472538,
+		"code": "Koutiala"
+	},
+	{
+		"libelle": "Tin-Essako",
+		"latitude": 18.397006,
+		"longitude": 3.419553,
+		"code": "Tin-Essako"
+	}
+]
